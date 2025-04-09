@@ -59,6 +59,17 @@ allure serve allure-results
 
 - Register user → Login → Create new user
 
+## 🖼 Allure Report Example
+
+### Overview
+![Allure Overview](screenshots/overview.png)
+
+### E2E Scenario
+![E2E Test](screenshots/e2e_test.png)
+
+### Negative Case
+![Negative Test](screenshots/negative_test.png)
+
 ## ✍ Author
 
 Created by Anatolii Zakharov as part of QA Automation portfolio.
